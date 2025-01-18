@@ -1,4 +1,3 @@
---
 # Star Rating System
 
 A simple, interactive star rating component for websites and applications. Users can visually rate items using a scale of 1 to 5 stars.
